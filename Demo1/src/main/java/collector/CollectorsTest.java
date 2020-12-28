@@ -10,7 +10,7 @@ import static java.util.stream.Collectors.toList;
 public class CollectorsTest {
 
     public static void main(String[] args) {
-        List<String> list = Arrays.asList("111", "2222", "333333333");
+        List<String> list = Arrays.asList("111", "2222", "333333333", "444444");
         toList(list);
     }
 
