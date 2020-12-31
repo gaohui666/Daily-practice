@@ -2,6 +2,8 @@ package collector;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 public class CollectorsTest {
@@ -13,7 +15,11 @@ public class CollectorsTest {
 
 //        joiningTest(list);
 
-        mapingTest(list);
+//        mapingTest(list);
+
+//        collectingAndThenTest(list);
+
+        maxByAndMinByTest(list);
     }
 
     private static void toList(List<String> list) {
@@ -35,8 +41,23 @@ public class CollectorsTest {
 
     public static void mapingTest(List<String> list){
         List<Integer> ll = list.stream().limit(4).collect(Collectors.mapping(Integer::valueOf,Collectors.toList()));
+
         System.out.println(ll);
     }
 
+    public static void collectingAndThenTest(List<String> list){
+        Integer collect = list.stream().collect(Collectors.collectingAndThen(Collectors.toList(), e -> e.size()));
+        System.out.println(collect);
+    }
+
+    public static void maxByAndMinByTest(List<String> list){
+        Optional<String> collect = list.stream().limit(3).collect(Collectors.maxBy((a, b) -> a.length() - b.length()));
+        System.out.println(collect);
+        System.out.println(list.stream().collect(Collectors.minBy((a, b) -> a.length() - b.length())));
+    }
+
+    public static void toMapTest(List<String> list){
+        Map<String, String> map = list.stream().limit(3).collect(Collectors.toMap(e -> e.substring(0, 1), e -> e));
+    }
 
 }

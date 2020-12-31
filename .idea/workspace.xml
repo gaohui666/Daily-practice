@@ -59,7 +59,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager" selected="Application.CollectorsTest">
     <configuration name="CollectorsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -130,7 +130,9 @@
       <workItem from="1606699597897" duration="399000" />
       <workItem from="1606700054033" duration="143000" />
       <workItem from="1609157700264" duration="913000" />
-      <workItem from="1609161030656" duration="3350000" />
+      <workItem from="1609161030656" duration="3740000" />
+      <workItem from="1609205167355" duration="4599000" />
+      <workItem from="1609247719947" duration="23000" />
     </task>
     <servers />
   </component>
@@ -150,22 +152,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1609158551264" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1609164447742">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1609222499861">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609164447742" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1609164447742">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609222499861" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1609222499861">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609164447742" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1609164447742">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609222499861" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1609222499861">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609164447742" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1609164447742">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609222499861" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1609222499861">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609164447742" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609222499861" />
     <state width="1493" height="217" key="GridCell.Tab.1.bottom" timestamp="1606462914730">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -182,10 +184,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="217" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1606462914730" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1609157739186">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1609247737148">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1609157739186" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1609247737148" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1606461124713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
