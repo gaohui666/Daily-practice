@@ -1,15 +1,13 @@
 package collector;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class CollectorsTest {
 
     public static void main(String[] args) {
         List<String> list = Arrays.asList("111", "2222", "333333333", "444444", "drtferwf3422");
+        List list1 = new ArrayList();
 
 //        toList(list);
 

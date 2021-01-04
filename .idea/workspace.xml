@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6844e05a-26a6-4f39-befd-4dbf1cb44caf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/list/ArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo1/src/main/java/collector/CollectorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/src/main/java/collector/CollectorsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo1/target/classes/collector/CollectorsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/target/classes/collector/CollectorsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo1/target/classes/thread/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/target/classes/thread/ThreadDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +34,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:\develope\apache-maven-3.6.0" />
+        <option name="mavenHome" value="D:/develope/apache-maven-3.6.0" />
         <option name="userSettingsFile" value="D:\develope\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1kmI9OYQw0tAQyjrKl85TrUv9ur" />
@@ -56,12 +53,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.CollectorsTest">
+  <component name="RunManager" selected="Application.ArrayTest">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ArrayTest" />
+      <module name="Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectorsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collector.CollectorsTest" />
       <module name="Demo1" />
@@ -104,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayTest" />
         <item itemvalue="Application.CollectorsTest" />
         <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.TestDate" />
@@ -133,41 +145,44 @@
       <workItem from="1609161030656" duration="3740000" />
       <workItem from="1609205167355" duration="4599000" />
       <workItem from="1609247719947" duration="23000" />
+      <workItem from="1609379663585" duration="2136000" />
+      <workItem from="1609383754314" duration="7930000" />
+      <workItem from="1609729850420" duration="736000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="79" key="#Project_Structure" timestamp="1606302479980">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="79" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1606302479980" />
-    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1606461110511">
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1609394106545">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1606461110511" />
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1609394106545" />
     <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1609158551264">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1609158551264" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1609222499861">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1609413953788">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609222499861" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1609222499861">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609413953788" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1609413953786">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609222499861" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1609222499861">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609413953786" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1609413953786">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609222499861" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1609222499861">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609413953786" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1609413953787">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609222499861" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609413953787" />
     <state width="1493" height="217" key="GridCell.Tab.1.bottom" timestamp="1606462914730">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -184,10 +199,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="217" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1606462914730" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1609247737148">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1609394969764">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1609247737148" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1609394969764" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1606461124713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
