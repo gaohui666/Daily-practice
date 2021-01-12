@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6844e05a-26a6-4f39-befd-4dbf1cb44caf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/list/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo1/src/main/java/collector/CollectorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/src/main/java/collector/CollectorsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo1/target/classes/collector/CollectorsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/target/classes/collector/CollectorsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo1/target/classes/thread/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/target/classes/thread/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/deleteComment/deleteJavaComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../itcast/maven" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -59,7 +57,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ArrayTest">
+  <component name="RunManager" selected="Application.deleteJavaComment">
     <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.ArrayTest" />
       <module name="Demo1" />
@@ -86,13 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.Lambda" />
-      <module name="Demo1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="date.TestDate" />
       <module name="Demo1" />
@@ -113,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="deleteJavaComment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deleteComment.deleteJavaComment" />
+      <module name="Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deleteComment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.deleteJavaComment" />
         <item itemvalue="Application.ArrayTest" />
         <item itemvalue="Application.CollectorsTest" />
         <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.TestDate" />
-        <item itemvalue="Application.Lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +151,9 @@
       <workItem from="1609247719947" duration="23000" />
       <workItem from="1609379663585" duration="2136000" />
       <workItem from="1609383754314" duration="7930000" />
-      <workItem from="1609729850420" duration="736000" />
+      <workItem from="1609729850420" duration="1543000" />
+      <workItem from="1609808292878" duration="1310000" />
+      <workItem from="1610422839344" duration="5820000" />
     </task>
     <servers />
   </component>
@@ -163,42 +169,50 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1609394106545" />
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1609158551264">
+    <state width="446" height="466" key="DebuggerActiveHint" timestamp="1610431953652">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1609158551264" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1609413953788">
+    <state width="446" height="466" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1610431953652" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1610423533268">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609413953788" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1609413953786">
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1610423533268" />
+    <state width="1493" height="175" key="GridCell.Tab.0.bottom" timestamp="1610431995860">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609413953786" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1609413953786">
+    <state width="1493" height="175" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1610431995860" />
+    <state width="1493" height="175" key="GridCell.Tab.0.center" timestamp="1610431995860">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609413953786" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1609413953787">
+    <state width="1493" height="175" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1610431995860" />
+    <state width="1493" height="175" key="GridCell.Tab.0.left" timestamp="1610431995860">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609413953787" />
-    <state width="1493" height="217" key="GridCell.Tab.1.bottom" timestamp="1606462914730">
+    <state width="1493" height="175" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1610431995860" />
+    <state width="1493" height="175" key="GridCell.Tab.0.right" timestamp="1610431995860">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606462914730" />
-    <state width="1493" height="217" key="GridCell.Tab.1.center" timestamp="1606462914730">
+    <state width="1493" height="175" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1610431995860" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1610431676952">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1606462914730" />
-    <state width="1493" height="217" key="GridCell.Tab.1.left" timestamp="1606462914730">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1610431676952" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1610431676952">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1606462914730" />
-    <state width="1493" height="217" key="GridCell.Tab.1.right" timestamp="1606462914730">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1610431676952" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1610431676952">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1606462914730" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1610431676952" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1610431676952">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1610431676952" />
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1610426255424">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1610426255424" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1609394969764">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -211,10 +225,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1609161994399" />
+    <state x="275" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610430516884">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="275" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1610430516884" />
     <state x="562" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609162794964">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="562" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1609162794964" />
+    <state x="468" y="149" width="600" height="536" key="find.popup" timestamp="1610430507830">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="468" y="149" width="600" height="536" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1610430507830" />
     <state x="178" y="121" key="new project wizard" timestamp="1606299216696">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -223,9 +245,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="509" y="229" width="617" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.834@0.0.1536.834" timestamp="1606700106403" />
-    <state x="431" y="155" key="search.everywhere.popup" timestamp="1606461073878">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1610430534310">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1606461073878" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1610430534310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo1/src/main/java/deleteComment/deleteJavaComment.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo1/src/main/java/deleteComment/deleteJavaComment.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo1/src/main/java/deleteComment/deleteJavaComment.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

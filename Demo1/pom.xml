@@ -10,6 +10,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Demo1</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.10</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <plugin>
