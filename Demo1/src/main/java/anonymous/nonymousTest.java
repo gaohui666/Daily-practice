@@ -1,5 +1,8 @@
 package anonymous;
 
+/**
+ * 匿名内部类
+ */
 class anonymousTest {
 
     public void test(Bird bird){
