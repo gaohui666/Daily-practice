@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6844e05a-26a6-4f39-befd-4dbf1cb44caf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/BlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/DeadlockRisk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/JoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/LockTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/MyCallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/ReaderResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/ThreadSleepTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/thread/ThreadTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1/src/main/resources/name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/anonymous/nonymousTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/cloneTest/CloneUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/cloneTest/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/extendTest/Husband.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/extendTest/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/outer/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo1/src/main/java/polymorphic/polymorphicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo1/src/main/resources/name" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/src/main/resources/name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo1/target/classes/name" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1/target/classes/name" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +65,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.BlockingQueueTest">
-    <configuration name="BlockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.BlockingQueueTest" />
+  <component name="RunManager" selected="Application.anonymousTest">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cloneTest.Client" />
       <module name="Demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="cloneTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeadlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.DeadlockTest" />
+    <configuration name="Husband" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extendTest.Husband" />
       <module name="Demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="extendTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.LockTest" />
+    <configuration name="OuterClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="outer.OuterClass" />
       <module name="Demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="outer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.LockTest2" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphic.Test" />
       <module name="Demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="polymorphic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.MyCallableTest" />
+    <configuration name="anonymousTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anonymous.anonymousTest" />
       <module name="Demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="anonymous.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BlockingQueueTest" />
-        <item itemvalue="Application.LockTest2" />
-        <item itemvalue="Application.LockTest" />
-        <item itemvalue="Application.MyCallableTest" />
-        <item itemvalue="Application.DeadlockTest" />
+        <item itemvalue="Application.anonymousTest" />
+        <item itemvalue="Application.OuterClass" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Husband" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +172,10 @@
       <workItem from="1610586151606" duration="864000" />
       <workItem from="1611104311148" duration="9870000" />
       <workItem from="1611190934561" duration="15710000" />
-      <workItem from="1611277978977" duration="8731000" />
+      <workItem from="1611277978977" duration="11877000" />
+      <workItem from="1611546736231" duration="7358000" />
+      <workItem from="1611625272423" duration="4492000" />
+      <workItem from="1611709500264" duration="2556000" />
     </task>
     <servers />
   </component>
@@ -190,10 +191,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="518" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1611280275202" />
-    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1611222489140">
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1611711918763">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1611222489140" />
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1611711918763" />
     <state width="446" height="466" key="DebuggerActiveHint" timestamp="1610431953652">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -202,38 +203,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1610423533268" />
-    <state width="1493" height="273" key="GridCell.Tab.0.bottom" timestamp="1611295640432">
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1611712173507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="273" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1611295640432" />
-    <state width="1493" height="273" key="GridCell.Tab.0.center" timestamp="1611295640432">
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1611712173507" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1611712173507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="273" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1611295640432" />
-    <state width="1493" height="273" key="GridCell.Tab.0.left" timestamp="1611295640432">
+    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1611712173507" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1611712173506">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="273" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1611295640432" />
-    <state width="1493" height="273" key="GridCell.Tab.0.right" timestamp="1611295640432">
+    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1611712173506" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1611712173507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="273" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1611295640432" />
-    <state width="1493" height="340" key="GridCell.Tab.1.bottom" timestamp="1611140600273">
+    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1611712173507" />
+    <state width="1493" height="340" key="GridCell.Tab.1.bottom" timestamp="1611573680808">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="340" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1611140600273" />
-    <state width="1493" height="340" key="GridCell.Tab.1.center" timestamp="1611140600273">
+    <state width="1493" height="340" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1611573680808" />
+    <state width="1493" height="340" key="GridCell.Tab.1.center" timestamp="1611573680807">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="340" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1611140600273" />
-    <state width="1493" height="340" key="GridCell.Tab.1.left" timestamp="1611140600273">
+    <state width="1493" height="340" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1611573680807" />
+    <state width="1493" height="340" key="GridCell.Tab.1.left" timestamp="1611573680807">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="340" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1611140600273" />
-    <state width="1493" height="340" key="GridCell.Tab.1.right" timestamp="1611140600273">
+    <state width="1493" height="340" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1611573680807" />
+    <state width="1493" height="340" key="GridCell.Tab.1.right" timestamp="1611573680807">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="340" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1611140600273" />
+    <state width="1493" height="340" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1611573680807" />
     <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1610426255424">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -270,6 +271,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="509" y="229" width="617" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.834@0.0.1536.834" timestamp="1606700106403" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1611711971427">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1611711971427" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611295265368">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
