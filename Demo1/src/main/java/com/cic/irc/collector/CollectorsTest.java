@@ -9,15 +9,15 @@ public class CollectorsTest {
         List<String> list = Arrays.asList("111", "2222", "333333333", "444444", "drtferwf3422");
         List list1 = new ArrayList();
 
-//        toList(com.cic.irc.list);
+//        toList(list);
 
-//        joiningTest(com.cic.irc.list);
+//        joiningTest(list);
 
-//        mapingTest(com.cic.irc.list);
+//        mapingTest(list);
 
-//        collectingAndThenTest(com.cic.irc.list);
+        collectingAndThenTest(list);
 
-        maxByAndMinByTest(list);
+//        maxByAndMinByTest(list);
     }
 
     private static void toList(List<String> list) {

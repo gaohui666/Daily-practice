@@ -24,6 +24,7 @@ public class listTest {
         list1 = Collections.unmodifiableList(list1);
 
         list3.add(3);
+//        list3.add(3);
 
         System.out.println(list1.equals(list2));        //false
 //        System.out.println(list1.equals(list3));        //true
